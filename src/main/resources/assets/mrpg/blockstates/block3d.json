@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "mrpg:block3d" }
+    }
+}

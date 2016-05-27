@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "mrpg:blocks/VitreOP",
+        "top": "mrpg:blocks/VitreOP",
+        "side": "mrpg:blocks/VitreOP"
+    }
+}

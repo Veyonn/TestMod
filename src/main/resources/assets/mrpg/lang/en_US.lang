@@ -1,0 +1,11 @@
+tile.blockModBasic.name=Block Tuto
+tile.block3d.name=Table Rendu 3d Test
+tile.blockStairsModBasic.name=Block tuto stairs
+tile.blockFenceModBasic.name=Block Fence Tuto
+tile.RPGBlock.name=Block RPG
+
+item.itemModBasic.name==RPG=
+
+itemGroup.tabRPG=RPG
+
+mrpg.keyTuto=key Tuto

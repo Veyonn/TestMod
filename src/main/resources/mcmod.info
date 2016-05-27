@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mrpg",
+  "name": "=RPG=",
+  "description": "Une simple description.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dexioze","Veyonn"],
+  "credits": "Thanks to our mom for making all this possible !",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

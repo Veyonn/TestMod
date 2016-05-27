@@ -1,0 +1,116 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+		    "particle": "mrpg:blocks/blockTest",
+	    "0": "blocks/stone",
+		"-1": "blocks/planks_spruce",
+		"2": "blocks/iron_block",
+		"3": "blocks/clay"
+    },
+    "elements": [
+        {
+            "name": "Tasse Dessous",
+            "from": [ 7.6, 0.0, 7.6 ], 
+            "to": [ 8.5, 0.10000000000000009, 8.5 ], 
+            "faces": {
+                "north": { "texture": "#-1", "uv": [ 0.0, 0.0, 0.9, 0.10000000000000009 ] },
+                "east": { "texture": "#-1", "uv": [ 0.0, 0.0, 0.9, 0.10000000000000009 ] },
+                "south": { "texture": "#-1", "uv": [ 0.0, 0.0, 0.9, 0.10000000000000009 ] },
+                "west": { "texture": "#-1", "uv": [ 0.0, 0.0, 0.9, 0.10000000000000009 ] },
+                "up": { "texture": "#-1", "uv": [ 0.0, 0.0, 0.9, 0.9 ] },
+                "down": { "texture": "#-1", "uv": [ 0.0, 0.0, 0.9, 0.9 ] }
+            }
+        },
+        {
+            "name": "Tasse Gauche",
+            "from": [ 7.5, 0.1, 7.6 ], 
+            "to": [ 7.6, 1.3, 8.5 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 0.9 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 0.9 ] }
+            }
+        },
+        {
+            "name": "Tasse Droite",
+            "from": [ 8.5, 0.1, 7.6 ], 
+            "to": [ 8.6, 1.3, 8.5 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 0.9 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 0.9 ] }
+            }
+        },
+        {
+            "name": "Tasse Haut",
+            "from": [ 7.6, 0.1, 7.5 ], 
+            "to": [ 8.5, 1.3, 7.6 ], 
+            "faces": {
+                "north": { "texture": "#3", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "east": { "texture": "#3", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "south": { "texture": "#3", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "west": { "texture": "#3", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "up": { "texture": "#3", "uv": [ 0.0, 0.0, 0.9, 0.1 ] },
+                "down": { "texture": "#3", "uv": [ 0.0, 0.0, 0.9, 0.1 ] }
+            }
+        },
+        {
+            "name": "Tasse Bas",
+            "from": [ 7.6, 0.1, 8.5 ], 
+            "to": [ 8.5, 1.3, 8.6 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 1.2 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 0.1, 1.2 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 0.1 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 0.9, 0.1 ] }
+            }
+        },
+        {
+            "name": "Paumaux Dessus",
+            "from": [ 8.6, 0.9, 8.0 ], 
+            "to": [ 9.1, 1.1, 8.1 ], 
+            "faces": {
+                "north": { "texture": "#2", "uv": [ 0.0, 0.0, 0.5, 0.2 ] },
+                "east": { "texture": "#2", "uv": [ 0.0, 0.0, 0.1, 0.2 ] },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, 0.5, 0.2 ] },
+                "west": { "texture": "#2", "uv": [ 0.0, 0.0, 0.1, 0.2 ] },
+                "up": { "texture": "#2", "uv": [ 0.0, 0.0, 0.5, 0.1 ] },
+                "down": { "texture": "#2", "uv": [ 0.0, 0.0, 0.5, 0.1 ] }
+            }
+        },
+        {
+            "name": "Paumaux Droit",
+            "from": [ 9.0, 0.4, 8.0 ], 
+            "to": [ 9.2, 0.9, 8.1 ], 
+            "faces": {
+                "north": { "texture": "#2", "uv": [ 0.0, 0.0, 0.2, 0.5 ] },
+                "east": { "texture": "#2", "uv": [ 0.0, 0.0, 0.1, 0.5 ] },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, 0.2, 0.5 ] },
+                "west": { "texture": "#2", "uv": [ 0.0, 0.0, 0.1, 0.5 ] },
+                "up": { "texture": "#2", "uv": [ 0.0, 0.0, 0.2, 0.1 ] },
+                "down": { "texture": "#2", "uv": [ 0.0, 0.0, 0.2, 0.1 ] }
+            }
+        },
+        {
+            "name": "Paumaux Dessous",
+            "from": [ 8.5, 0.2, 8.0 ], 
+            "to": [ 9.1, 0.4, 8.1 ], 
+            "faces": {
+                "north": { "texture": "#2", "uv": [ 0.0, 0.0, 0.6, 0.2 ] },
+                "east": { "texture": "#2", "uv": [ 0.0, 0.0, 0.1, 0.2 ] },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, -7.4, 0.2 ] },
+                "west": { "texture": "#2", "uv": [ 0.0, 0.0, 0.1, 0.2 ] },
+                "up": { "texture": "#2", "uv": [ 0.0, 0.0, 0.6, 0.1 ] },
+                "down": { "texture": "#2", "uv": [ 0.0, 0.0, 0.6, 0.1 ] }
+            }
+        }
+    ]
+}
